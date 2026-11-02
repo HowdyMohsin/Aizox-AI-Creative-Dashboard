@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/logo/logo.svg" alt="AIZOX logo" width="240" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/logo/logo.svg" />
   <img src="images/logo/logo-white.svg" alt="AIZOX logo" width="360" height="126" style="width: 360px; max-width: 100%; height: auto;" />
